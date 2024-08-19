@@ -1,3 +1,4 @@
+# odin-recipes
 This is a project repo as part of The Odin Project: Foundations course.
 
 The following course materials were utilized as part of this project:
